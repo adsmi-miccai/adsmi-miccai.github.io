@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/2022/04/02/dali-website.html</loc>
+<lastmod>2022-04-02T21:51:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/talks/Adrian_Dalca.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/talks/Ekin_Dogus_Cubuk.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/talks/Jerry_Prince.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/talks/Margrit_Betke.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/talks/Stephen_Wong.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/talks/Steve_Jiang.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+</urlset>
