@@ -49,7 +49,7 @@ We extend an invitation to researchers, clinicians, technologists, and industry 
 - Techniques for synthesizing medical images across diverse modalities, imaging sites, and from textual descriptions.
 - Ethical considerations in AI-driven medical imaging, focusing on fairness, equity, and privacy.
 
-Submissions to our workshop will be managed using the same platform as the main MICCAI conference, using Microsoft CMT. Workshop paper submission website is at: [https://cmt3.research.microsoft.com/ADSMI2023](https://cmt3.research.microsoft.com/ADSMI2023)
+Submissions to our workshop will be managed using the same platform as the main MICCAI conference, using Microsoft CMT. Workshop paper submission website is at: [https://cmt3.research.microsoft.com/ADSMI2024](https://cmt3.research.microsoft.com/ADSMI2024)
 
 The ADSMI workshop will employ the same reviewing standards as the main conference. ADSMI workshop paper submissions should be anonymized to accommodate a double-blind review. Papers should be formatted using LaTeX or MS Word templates available at [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Manuscripts should be up to 8 pages (text, figures, and tables) plus up to 2 pages of references. In submitting a paper, authors implicitly acknowledge that no paper of substantially similar content has been or will be submitted to another conference or workshop until the decisions have been made by our workshop. Supplemental material submission is optional, which may include:
 
