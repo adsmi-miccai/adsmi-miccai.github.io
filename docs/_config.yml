@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DALI @ MICCAI
-email: yuanxue@jhu.edu
+title: ADSMI @ MICCAI 2024
+email: yuan.xue@osumc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The 3rd MICCAI workshop on Data Augmentatation, Labeling, and Imperfections.
+  MICCAI Workshop on Advancing Data Solutions in Medical Imaging AI
 baseurl: ""
-url: "https://dali-miccai.github.io"
+url: "https://adsmi-miccai.github.io"
 # google_analytics: G-3Y8WJXG05N
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -36,7 +36,7 @@ plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
 
-logo: /logo.png
+logo: /logo_adsmi.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.

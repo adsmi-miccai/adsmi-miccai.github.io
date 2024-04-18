@@ -2,19 +2,17 @@
   link: "#important-dates"
 - name: Call For Papers
   link: "#call-for-papers"
-- name: Camera Ready Guidelines
-  link: "#camera-ready-submission-guidelines"
 - name: Program
   link: "#program"
 - name: People
   link: "#people"
-- name: Special Issue
-  link: "#proceedings-and-cmig-special-issue"
 - name: Awards & Sponsors
   link: "#awards-and-sponsors"
 - name: Previous Editions
   dropdown:
-    - name: 1st DALI @ MICCAI 2021 
-      link: https://yuanxue1993.github.io/dali-miccai-2021.github.io/
-    - name: 2nd DALI @ MICCAI 2022 
-      link: https://yuanxue1993.github.io/dali-miccai-2022.github.io/
+    - name: 3rd DALI @ MICCAI 2023
+      link: https://dali-miccai.github.io/
+    - name: BTSD-1001AI @ MICCAI 2023 
+      link: https://btsdmiccai.github.io/
+    - name: 2nd MILLanD @ MICCAI 2023
+      link: https://miccaimilland.wixsite.com/milland2023
