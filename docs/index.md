@@ -23,9 +23,9 @@ ADSMI is the joint workshop of Data Augmentation, Labeling, and Imperfections (D
 ## Important Dates
 
 - **[Paper Submission](https://cmt3.research.microsoft.com/ADSMI2024) Opens**: **April 18**, 2024
-- **Paper Submission Deadline**:  **July 10**, 2024
-- **Notification to Authors**:  **July 31**, 2024
-- **Camera Ready Deadline**:  **August 17**, 2024
+- **Paper Submission Deadline**:  **June 24**, 2024
+- **Notification to Authors**:  **July 15**, 2024
+- **Camera Ready Deadline**:  **August 2**, 2024
 - **Workshop Day**: **October 6**, 2024, Marrakesh, Morocco
 
 ## Call For Papers
