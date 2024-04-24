@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ADSMI @ MICCAI 2024
-subtitle: MICCAI Workshop on Advancing Data Solutions in Medical Imaging AI
+# title: ADSMI @ MICCAI 2024
+# subtitle: MICCAI Workshop on Advancing Data Solutions in Medical Imaging AI
 description: The Joint Workshop of Data Augmentation, Labeling, and Imperfections (DALI), Big Task Small Data, 1001-AI (BTSD), and Medical Image Learning with Limited and Noisy Data (MILLanD)
 # carousels:
 #   - images: 
