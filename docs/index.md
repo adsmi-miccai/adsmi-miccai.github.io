@@ -9,7 +9,7 @@ description: The Joint Workshop of Data Augmentation, Labeling, and Imperfection
 #     - image: /hero.png
 #     - image: /hero.png
 hero_image: /test-logo.png
-image: /test-logo.png
+# image: /test-logo.png
 # show_sidebar: true
 ---
 <!-- {% include carousel.html height="50" unit="%" duration="7" number="1" %} -->
