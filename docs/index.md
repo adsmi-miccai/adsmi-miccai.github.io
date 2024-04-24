@@ -8,7 +8,7 @@ description: The Joint Workshop of Data Augmentation, Labeling, and Imperfection
 #     - image: /hero.png
 #     - image: /hero.png
 #     - image: /hero.png
-# hero_image: /logo_adsmi.png
+hero_image: /test-logo.png
 image: /test-logo.png
 # show_sidebar: true
 ---
