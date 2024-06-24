@@ -2,7 +2,7 @@
 layout: post
 title: "The ADSMI 2024 Workshop Submission Deadline Is Extended to June 29."
 subtitle: 
-date: 2024-06-24 18:30:00 -0400
+date: 2024-06-23 18:30:00 -0400
 author: The ADSMI Organizers
 ---
 
