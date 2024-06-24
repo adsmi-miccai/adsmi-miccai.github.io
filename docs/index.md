@@ -26,7 +26,7 @@ ADSMI is the joint workshop of Data Augmentation, Labeling, and Imperfections (D
 - **Paper Submission Deadline**:  ~~June 24~~ **June 29**, 2024
 - **Notification to Authors**:  **July 15**, 2024
 - **Camera Ready Deadline**:  **August 2**, 2024
-- **Workshop Day**: **October 6**, 2024, Marrakesh, Morocco
+- **Workshop Day**: **October 10**, 2024, Marrakesh, Morocco
 
 ## Call For Papers
 
