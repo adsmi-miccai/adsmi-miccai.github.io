@@ -59,6 +59,8 @@ The ADSMI workshop will employ the same reviewing standards as the main conferen
 
 Contents of the supplemental material should be referred to appropriately in the paper, and reviewers are not obliged to look at it.
 
+Accepted ADSMI workshop papers will be published with MICCAI 2024 Proceedings in the Springer Lecture Notes in Computer Science (LNCS) series.
+
 <!-- ## Camera Ready Submission Guidelines
 
 Please carefully address the feedback provided by the reviewers. Submit the revised materials to the [DALI CMT site](https://cmt3.research.microsoft.com/DALI2023) as a single zip archive, named in the format `dali23_id-X.zip`, with "X" being replaced by your unique paper ID.
@@ -84,6 +86,12 @@ To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper au
 ### Keynote Speakers
 
 - TBD
+
+## Awards and Sponsors
+
+We are pleased to announce that a prestigious award will be presented at the upcoming DALI workshop, and we are grateful to our generous sponsor. The **Best Paper Award** with an amount of **$500** will be sponsored by a leading companies in the industry: [NetMind](https://netmind.ai/home).
+
+We are thrilled to have NetMind as the sponsor for the ADSMI workshop and are grateful for their support in recognizing outstanding contributions in medical AI research. We encourage all attendees to take the opportunity to learn more about the [decentralized AI platform](https://power.netmind.ai/).
 
 <!-- - [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/), Rutgers University, USA [\[Keynote Info\]](talks/Dimitris_Metaxas.html)
 - [Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html), German Cancer Research Center, Germany [\[Keynote Info\]](talks/Lena_Maier-Hein.html)
