@@ -61,19 +61,19 @@ Contents of the supplemental material should be referred to appropriately in the
 
 Accepted ADSMI workshop papers will be published with MICCAI 2024 Proceedings in the Springer Lecture Notes in Computer Science (LNCS) series.
 
-<!-- ## Camera Ready Submission Guidelines
+## Camera Ready Submission Guidelines
 
-Please carefully address the feedback provided by the reviewers. Submit the revised materials to the [DALI CMT site](https://cmt3.research.microsoft.com/DALI2023) as a single zip archive, named in the format `dali23_id-X.zip`, with "X" being replaced by your unique paper ID.
+Please carefully address the feedback provided by the reviewers. Submit the revised materials to the [ADSMI CMT site](https://cmt3.research.microsoft.com/ADSMI2024) as a single zip archive, named in the format `adsmi24_id-X.zip`, with "X" being replaced by your unique paper ID.
 
 Your submission should include:
 
-1. **Manuscript**: Maximum of 8.5 pages, inclusive of text, figures, and tables, with an additional allowance of up to 2 pages for references. The file should be named `manuscript.pdf`.
+1. **Manuscript**: A maximum of 8.5 pages, inclusive of text, figures, and tables, with an additional allowance of up to 2 pages for references. The file should be named `manuscript.pdf`.
 2. **Supplementary Material** (Optional): Name the file `supplementary_material.pdf`. Note that source files for supplementary materials aren't mandatory.
 3. **Changes Document**: A detailed list of modifications made post-review. Name the file `changes_after_review.pdf`.
-4. **Copyright Form**: Download and fill out the [copyright form](https://dali-miccai.github.io/DALI23_SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland.docx). The form should be signed by the corresponding author. Digital signatures will not be accepted. Save this document as `copyright.pdf`.
+4. **Copyright Form**: Download and fill out the [copyright form](https://adsmi-miccai.github.io/ADSMI24_SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland.docx). The form should be **signed** by the corresponding author. Digital signatures will not be accepted. Save the file as `copyright.pdf`.
 5. **Source Files**: Include a folder named `src/`, which houses the source files for your manuscript (e.g., `.tex`, `.bib`, `.docx`).
 
-To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper author **must** register to attend on the second workshop day, October 12. As a general rule, this registration should be an "in-person" registration. The camera-ready submission portal will prompt you to provide the registration number of the author who will be presenting your work. -->
+To ensure your paper is presented at MICCAI ADSMI 2024, a minimum of one paper author **must** register to attend on the second workshop day, October 10. Per MICCAI guideline, this registration must be an "in-person" registration. The camera-ready submission portal will prompt you to provide the registration number of the author who will be presenting your work.
 
 ## Program
 
