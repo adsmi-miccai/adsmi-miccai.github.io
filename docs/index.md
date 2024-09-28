@@ -77,15 +77,60 @@ To ensure your paper is presented at MICCAI ADSMI 2024, a minimum of one paper a
 
 ## Program
 
-<!-- ### Location
+### Location
 
-- **Workshop: Meeting Room 14, Vancouver Convention Center East Building Level 1**
-- **Coffee Break/Poster Session: The Poster Hall at Ground Level Exhibition B-C**
-- **Virtual Attendance: ConFLUX platform**  -->
+- **Workshop: Oliveraie, Conference Center**
+- **Poster Session: The main poster room, the same boards as the main conference**
 
 ### Keynote Speakers
 
-- TBD
+- [Christian Ledig](https://www.uni-bamberg.de/en/ai/chair-of-explainable-machine-learning/team/prof-dr-christian-ledig/), University of Bamberg, Germany [\[Keynote Info\]](talks/Christian_Ledig.html)
+- [Ulas Bagci](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=50532), Northwestern University, USA [\[Keynote Info\]](talks/Ulas_Bagci.html)
+
+### Schedule
+
+- <ins>1:30 - 1:40 PM WEST</ins> Opening remarks and introduction
+#### Keynote Session 1
+- <ins>1:40 - 2:15 PM WEST</ins> **Keynote: From Images to Embeddings: Is End-to-End Learning Coming to an End?**, *[Christian Ledig](https://www.uni-bamberg.de/en/ai/chair-of-explainable-machine-learning/team/prof-dr-christian-ledig/) (University of Bamberg)*; [\[Details\]](talks/Christian_Ledig.html)
+#### Oral Session 1
+<ins>2:15 - 2:55 PM WEST</ins>
+-  **Oral: Physics-informed Unsupervised Test-time Adaptation for MRI Super-Resolution**,  *Weitong Zhang (Imperial College London)*
+-  **Oral: LoGex: Improved tail detection of extremely rare histopathology classes via guided diffusion**,  *Maximilian Mueller (University of Tübingen)*
+-  **Oral: Label Sharing Incremental Learning Framework for Independent Multi-Label Segmentation Tasks**,  *Deepa Anand (GE HealthCare)*
+
+#### Coffee Break/Poster Session 
+- <ins>2:55 - 3:30 PM WEST</ins> Poster Session 
+- <ins>3:30 - 4:00 PM WEST</ins> Coffee Break/Poster Session 
+#### Keynote Session 2
+- <ins>4:00 - 4:30 PM WEST</ins> **Keynote: A Wolf in the Sheep's Clothing: Diagnosis and Risk Stratification of Pancreatic Cysts with Explainable AI**, *[Ulas Bagci](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=50532) (Northwestern University)*; [\[Details\]](talks/Ulas_Bagci.html)
+#### Oral Session 2
+<ins>4:30 - 5:20 PM WEST</ins>
+-  **Oral: MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions**,  *Francesco Di Salvo (University of Bamberg)*
+-  **Oral: Learning from Similarity Proportion Loss for Classifying Skeletal Muscle Recovery Stages**,  *Yu Yamaoka (Osaka University)*
+-  **Oral: Selective Test-Time Adaptation for Unsupervised Anomaly Detection using Neural Implicit Representations**,  *Sameer Ambekar (Technical University Munich)*
+-  **Oral: DermDiff: Generative Diffusion Model for Mitigating Racial Biases in Dermatology Diagnosis**,  *Nusrat Munia (University of Kentucky)*
+- <ins>5:20 - 5:30 PM WEST</ins> Closing and award announcement
+
+### Poster List
+
+- <ins>01</ins> Physics-informed Unsupervised Test-time Adaptation for MRI Super-Resolution
+- <ins>02</ins> Variational multimodal distillation for diagnosing plaque vulnerability in carotid 3D MRI
+- <ins>03</ins> MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions
+- <ins>04</ins> CoMoTo: Unpaired Cross-Modal Lesion Distillation Improves Breast Lesion Detection in Tomosynthesis
+- <ins>05</ins> Learning from Similarity Proportion Loss for Classifying Skeletal Muscle Recovery Stages
+- <ins>06</ins> LoGex: Improved tail detection of extremely rare histopathology classes via guided diffusion
+- <ins>07</ins> SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation
+- <ins>08</ins> Unsupervised Domain Adaptation for Pediatric Brain Tumor Segmentation
+- <ins>09</ins> Rethinking Annotator Simulation: Realistic Evaluation of Whole-Body PET Lesion Interactive Segmentation Methods
+- <ins>10</ins> Federated Self-supervised Domain Generalization for Label-efficient Polyp Segmentation
+- <ins>11</ins> Selective Test-Time Adaptation for Unsupervised Anomaly Detection using Neural Implicit Representations
+- <ins>12</ins> AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation
+- <ins>13</ins> Enhancing Single-Slice Segmentation with 3D-to-2D Unpaired Scan Distillation
+- <ins>14</ins> Enhancing the automatic segmentation and analysis of 3D liver vasculature models
+- <ins>15</ins> Adaptive Pseudo Label Selection for Individual Unlabeled Data by Positive and Unlabeled Learning
+- <ins>16</ins> Label Sharing Incremental Learning Framework for Independent Multi-Label Segmentation Tasks
+- <ins>17</ins> The Effect of Lossy Compression on 3D Medical Images Segmentation with Deep Learning
+- <ins>18</ins> DermDiff: Generative Diffusion Model for Mitigating Racial Biases in Dermatology Diagnosis
 
 ## Awards and Sponsors
 
@@ -99,19 +144,19 @@ We are thrilled to have NetMind as the sponsor for the ADSMI workshop and are gr
 
 <!-- ### Schedule
 
-- <ins>1:30 - 1:40 PM PDT</ins> Opening, welcome and introduction
-- <ins>1:40 - 1:55 PM PDT</ins> **Oral: Masked Conditional Diffusion Models for Image Analysis with Application to Radiographic Diagnosis of Infant Abuse**,  *Andy Tsai (Boston Children's Hospital and Harvard Medical School)*
-- <ins>1:55 - 2:10 PM PDT</ins> **Oral: Self-Supervised Single-Image Deconvolution with Siamese Neural Networks**,  *Mikhail Papkov (University of Tartu)*
-- <ins>2:10 - 2:50 PM PDT</ins> **Keynote: The devil is in the details: On the importance of professionalizing the whole image analysis pipeline**, *[Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html) (German Cancer Research Center)*; [\[Details\]](talks/Lena_Maier-Hein.html)
-- <ins>2:50 - 3:30 PM PDT</ins> **Keynote: Genetic Mutation and Biological Pathway Prediction from Whole Slide Images using Deep Learning for Cancer Detection and Diagnosis**, *[Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/) (Rutgers University)*; [\[Details\]](talks/Dimitris_Metaxas.html)
-- <ins>3:30 - 4:00 PM PDT</ins> Coffee Break/Poster Session (Ground Level Exhibition B-C)
-- <ins>4:00 - 4:30 PM PDT</ins> Poster Session (Ground Level Exhibition B)
-- <ins>4:30 - 5:10 PM PDT</ins> **Keynote: AI and Data Efficient Deep Learning to Accelerate Large-Scale Studies of Brain Diseases**, *[Paul M. Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/) (University of Southern California)*; [\[Details\]](talks/Paul_Thompson.html)
-- <ins>5:10 - 5:25 PM PDT</ins> **Oral: Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**,  *Tom J van Sonsbeek (University of Amsterdam)*
-- <ins>5:25 - 5:40 PM PDT</ins> **Oral: Data Augmentation Based on DiscrimDiff for Histopathology Image Classification**,  *Xianchao Guan (Harbin Institute of Technology, Shenzhen)*
-- <ins>5:40 - 5:55 PM PDT</ins> **Oral: URL: Combating Label Noise for Lung Nodule Malignancy Grading**,  *Xianze Ai (Northwestern Polytechnical University)*
-- <ins>5:55 - 6:10 PM PDT</ins> **Oral: A Realistic Collimated X-Ray Image Simulation Pipeline**,  *Benjamin El-Zein (Friedrich-Alexander-University Erlangen-Nuremberg)*
-- <ins>6:10 - 6:30 PM PDT</ins> Closing and award announcement
+- <ins>1:30 - 1:40 PM WEST</ins> Opening, welcome and introduction
+- <ins>1:40 - 1:55 PM WEST</ins> **Oral: Masked Conditional Diffusion Models for Image Analysis with Application to Radiographic Diagnosis of Infant Abuse**,  *Andy Tsai (Boston Children's Hospital and Harvard Medical School)*
+- <ins>1:55 - 2:10 PM WEST</ins> **Oral: Self-Supervised Single-Image Deconvolution with Siamese Neural Networks**,  *Mikhail Papkov (University of Tartu)*
+- <ins>2:10 - 2:50 PM WEST</ins> **Keynote: The devil is in the details: On the importance of professionalizing the whole image analysis pipeline**, *[Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html) (German Cancer Research Center)*; [\[Details\]](talks/Lena_Maier-Hein.html)
+- <ins>2:50 - 3:30 PM WEST</ins> **Keynote: Genetic Mutation and Biological Pathway Prediction from Whole Slide Images using Deep Learning for Cancer Detection and Diagnosis**, *[Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/) (Rutgers University)*; [\[Details\]](talks/Dimitris_Metaxas.html)
+- <ins>3:30 - 4:00 PM WEST</ins> Coffee Break/Poster Session (Ground Level Exhibition B-C)
+- <ins>4:00 - 4:30 PM WEST</ins> Poster Session (Ground Level Exhibition B)
+- <ins>4:30 - 5:10 PM WEST</ins> **Keynote: AI and Data Efficient Deep Learning to Accelerate Large-Scale Studies of Brain Diseases**, *[Paul M. Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/) (University of Southern California)*; [\[Details\]](talks/Paul_Thompson.html)
+- <ins>5:10 - 5:25 PM WEST</ins> **Oral: Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**,  *Tom J van Sonsbeek (University of Amsterdam)*
+- <ins>5:25 - 5:40 PM WEST</ins> **Oral: Data Augmentation Based on DiscrimDiff for Histopathology Image Classification**,  *Xianchao Guan (Harbin Institute of Technology, Shenzhen)*
+- <ins>5:40 - 5:55 PM WEST</ins> **Oral: URL: Combating Label Noise for Lung Nodule Malignancy Grading**,  *Xianze Ai (Northwestern Polytechnical University)*
+- <ins>5:55 - 6:10 PM WEST</ins> **Oral: A Realistic Collimated X-Ray Image Simulation Pipeline**,  *Benjamin El-Zein (Friedrich-Alexander-University Erlangen-Nuremberg)*
+- <ins>6:10 - 6:30 PM WEST</ins> Closing and award announcement
 
 ### Poster List (Ground Level Exhibition B)
 
@@ -179,4 +224,54 @@ The presenting author should be registered for the second workshop day (Septembe
 
 ### Program Committee
 
-TBD
+- Amogh Subbakrishna Adishesha, Penn State University
+- Anabik Pal, IISER Berhampur
+- Anqi Feng, Johns Hopkins University
+- Bin Wang, Northwestern University
+- Cheng Ouyang, Imperial College London
+- Christoph M. Friedrich, University of Applied Sciences and Arts Dortmund
+- Chunjiang Wang, University of Science and Technology of China
+- Eung-Joo Lee, University of Arizona
+- Fan Wang, Stony Brook University
+- Farheen Ramzan, University of Sheffield
+- Fenghe Tang, University of Science and Technology of China
+- Fuping Wu, University of Oxford
+- Gilbert Lim, SingHealth
+- Han Li, University of Science and Technology of China
+- Haobo Zhu, University of Oxford
+- Haoran Lai, University of Science and Technology of China
+- Jiazhen Pan, Technical University of Munich
+- Jinkui Hao, Cixi Institute of Biomedical Engineering, Ningbo Institute of Industrial Technology, Chinese Academy of Sciences
+- Jun Li, Institute of Computing Technology, Chinese Academy of Sciences
+- Kexin Ding, University of North Carolina at Charlotte
+- Le Zhang, University of Birmingham
+- Liu Li, Imperial College London
+- Mingyue Zhao, University of Science and Technology of China
+- Mohammod Naimul Islam Suvon, University of Sheffield
+- Muchao Ye, The Pennsylvania State University
+- Nicha Dvornek, Yale University
+- Nicholas Heller, University of Minnesota
+- Ning Bi, University of Oxford
+- Peiyu Duan, Yale University
+- Peng Guo, Massachusetts General Hospital
+- Prasanth Ganesan, Stanford Medicine
+- Qingsong Yao, Institute of Computing Technology, CAS
+- Qiong Liu, Yale University
+- Ruochen Wang, AbleTo, Inc.
+- Sameer Ambekar, Technical University Munich
+- Samira Zare, University of Houston
+- Shuo Zhou, University of Sheffield
+- Sivaramakrishnan Rajaraman, National Library of Medicine
+- Weitong Zhang, Imperial College London
+- Wenrui Fan, The University of Sheffield
+- Xueming Fu, University of Science and Technology of China
+- Xueqi Guo, Siemens Healthineers
+- Yinchi Zhou, Yale University
+- Yiying Wang, University of Oxford
+- Yubo Fan, Vanderbilt University
+- Yujia Li, Institute of Computing Technology, Chinese Academy of Sciences
+- Yuli Wang, Johns Hopkins University
+- Zeju Li, Imperial College London
+- Zhangxing Bian, Johns Hopkins University
+- Zhaohui Liang, National Library of Medicine
+- Zuhui Wang, Stony Brook University
