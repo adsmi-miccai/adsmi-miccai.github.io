@@ -90,8 +90,10 @@ To ensure your paper is presented at MICCAI ADSMI 2024, a minimum of one paper a
 ### Schedule
 
 - <ins>1:30 - 1:40 PM WEST</ins> Opening remarks and introduction
+
 #### Keynote Session 1
 - <ins>1:40 - 2:15 PM WEST</ins> **Keynote: From Images to Embeddings: Is End-to-End Learning Coming to an End?**, *[Christian Ledig](https://www.uni-bamberg.de/en/ai/chair-of-explainable-machine-learning/team/prof-dr-christian-ledig/) (University of Bamberg)*; [\[Details\]](talks/Christian_Ledig.html)
+
 #### Oral Session 1
 <ins>2:15 - 2:55 PM WEST</ins>
 -  **Oral: Physics-informed Unsupervised Test-time Adaptation for MRI Super-Resolution**,  *Weitong Zhang (Imperial College London)*
@@ -101,8 +103,10 @@ To ensure your paper is presented at MICCAI ADSMI 2024, a minimum of one paper a
 #### Coffee Break/Poster Session 
 - <ins>2:55 - 3:30 PM WEST</ins> Poster Session 
 - <ins>3:30 - 4:00 PM WEST</ins> Coffee Break/Poster Session 
+
 #### Keynote Session 2
 - <ins>4:00 - 4:30 PM WEST</ins> **Keynote: A Wolf in the Sheep's Clothing: Diagnosis and Risk Stratification of Pancreatic Cysts with Explainable AI**, *[Ulas Bagci](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=50532) (Northwestern University)*; [\[Details\]](talks/Ulas_Bagci.html)
+
 #### Oral Session 2
 <ins>4:30 - 5:20 PM WEST</ins>
 -  **Oral: MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions**,  *Francesco Di Salvo (University of Bamberg)*
