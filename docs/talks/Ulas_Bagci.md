@@ -5,11 +5,6 @@ subtitle: "A Wolf in the Sheep's Clothing: Diagnosis and Risk Stratification of 
 author: Yuan Xue
 ---
 
-<!-- ### Time and Location
-
-<!-- Oct. 12th, 02:50 PM to 03:30 PM (PDT- Pacific Daylight Time)\
-Meeting Room 14, Vancouver Convention Center East Building Level 1 -->
-
 ### Keynote Speaker
 
 <img src="/talks/images/Ulas_Bagci.jpg" alt="Ulas Bagci" style="width:300px; border-radius:10px;">

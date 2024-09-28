@@ -5,14 +5,9 @@ subtitle: "From Images to Embeddings: Is End-to-End Learning Coming to an End?"
 author: Yuan Xue
 ---
 
-<!-- ### Time and Location
-
-<!-- Oct. 12th, 02:50 PM to 03:30 PM (PDT- Pacific Daylight Time)\
-Meeting Room 14, Vancouver Convention Center East Building Level 1 -->
-
 ### Keynote Speaker
 
-<img src="/talks/images/Christian_Ledig.jpg" alt="Christian Ledig" style="width:300px; border-radius:10px;">
+<img src="/Christian_Ledig.jpg" alt="Christian Ledig" style="width:300px; border-radius:10px;">
 
 ### Abstract
 
