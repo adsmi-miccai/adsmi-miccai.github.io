@@ -7,7 +7,7 @@ author: Yuan Xue
 
 ### Ulas Bagci
 
-<img src="/Ulas_Bagci.jpg" alt="Ulas Bagci" style="width:300px; border-radius:10px;">
+<img src="/Ulas-Bagci.jpg" alt="Ulas Bagci" style="width:300px; border-radius:10px;">
 
 ### Abstract
 
