@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Keynote Talk: Christian Ledigs"
+title: "Keynote Talk: Christian Ledig"
 subtitle: "From Images to Embeddings: Is End-to-End Learning Coming to an End?"
 author: Yuan Xue
 ---
 
-### Keynote Speaker
+### Christian Ledig
 
 <img src="/Christian_Ledig.jpg" alt="Christian Ledig" style="width:300px; border-radius:10px;">
 

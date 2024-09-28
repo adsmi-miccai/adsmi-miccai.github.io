@@ -5,9 +5,9 @@ subtitle: "A Wolf in the Sheep's Clothing: Diagnosis and Risk Stratification of 
 author: Yuan Xue
 ---
 
-### Keynote Speaker
+### Ulas Bagci
 
-<img src="/talks/images/Ulas_Bagci.jpg" alt="Ulas Bagci" style="width:300px; border-radius:10px;">
+<img src="/Ulas_Bagci.jpeg" alt="Ulas Bagci" style="width:300px; border-radius:10px;">
 
 ### Abstract
 

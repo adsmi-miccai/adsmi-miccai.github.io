@@ -96,9 +96,9 @@ To ensure your paper is presented at MICCAI ADSMI 2024, a minimum of one paper a
 
 #### Oral Session 1
 <ins>2:15 - 2:55 PM WEST</ins>
--  **Oral: Physics-informed Unsupervised Test-time Adaptation for MRI Super-Resolution**,  *Weitong Zhang (Imperial College London)*
--  **Oral: LoGex: Improved tail detection of extremely rare histopathology classes via guided diffusion**,  *Maximilian Mueller (University of Tübingen)*
--  **Oral: Label Sharing Incremental Learning Framework for Independent Multi-Label Segmentation Tasks**,  *Deepa Anand (GE HealthCare)*
+-  **Physics-informed Unsupervised Test-time Adaptation for MRI Super-Resolution**,  *Weitong Zhang (Imperial College London)*
+-  **LoGex: Improved tail detection of extremely rare histopathology classes via guided diffusion**,  *Maximilian Mueller (University of Tübingen)*
+-  **Label Sharing Incremental Learning Framework for Independent Multi-Label Segmentation Tasks**,  *Deepa Anand (GE HealthCare)*
 
 #### Coffee Break/Poster Session 
 - <ins>2:55 - 3:30 PM WEST</ins> Poster Session 
@@ -109,10 +109,10 @@ To ensure your paper is presented at MICCAI ADSMI 2024, a minimum of one paper a
 
 #### Oral Session 2
 <ins>4:30 - 5:20 PM WEST</ins>
--  **Oral: MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions**,  *Francesco Di Salvo (University of Bamberg)*
--  **Oral: Learning from Similarity Proportion Loss for Classifying Skeletal Muscle Recovery Stages**,  *Yu Yamaoka (Osaka University)*
--  **Oral: Selective Test-Time Adaptation for Unsupervised Anomaly Detection using Neural Implicit Representations**,  *Sameer Ambekar (Technical University Munich)*
--  **Oral: DermDiff: Generative Diffusion Model for Mitigating Racial Biases in Dermatology Diagnosis**,  *Nusrat Munia (University of Kentucky)*
+-  **MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions**,  *Francesco Di Salvo (University of Bamberg)*
+-  **Learning from Similarity Proportion Loss for Classifying Skeletal Muscle Recovery Stages**,  *Yu Yamaoka (Osaka University)*
+-  **Selective Test-Time Adaptation for Unsupervised Anomaly Detection using Neural Implicit Representations**,  *Sameer Ambekar (Technical University Munich)*
+-  **DermDiff: Generative Diffusion Model for Mitigating Racial Biases in Dermatology Diagnosis**,  *Nusrat Munia (University of Kentucky)*
 - <ins>5:20 - 5:30 PM WEST</ins> Closing and award announcement
 
 ### Poster List
