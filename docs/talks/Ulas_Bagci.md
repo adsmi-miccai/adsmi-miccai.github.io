@@ -11,7 +11,7 @@ author: Yuan Xue
 
 ### Abstract
 
-TBD
+In this presentation, I will discuss our experience in tackling one of the most challenging issues in pancreatic imaging: estimating cancer risk through the analysis of pancreatic cysts using artificial intelligence (AI). Specifically, I will focus on intraductal papillary mucinous neoplasms (IPMNs), which have the potential to progress into pancreatic cancer. AI-based explainable analysis of the pancreas imaging (MRI)—which includes the segmentation of pancreatic tissue (a challenging task in itself), localization of IPMN cysts, and assessment of their risk of malignancy—emerges as a highly promising strategy to challenge and potentially enhance existing clinical guidelines. I will present the methods we have developed in my group to address this problem and introduce the dataset we have collected and recently shared publicly to facilitate reproducible and collaborative research.
 
 
 ### Speaker's Bio
