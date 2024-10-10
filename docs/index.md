@@ -209,6 +209,8 @@ The presenting author should be registered for the second workshop day (Septembe
 - Zhiyun Xue, National Institutes of Health, USA
 
 ### Executive Chairs
+- Shuo Zhou, University of Sheffield, UK
+- Mohammod Naimul Islam Suvon, University of Sheffield, UK
 - Chao Chen, Stony Brook University, USA
 - Esther Puyol-Antón, King's College London, UK
 - Le Zhang, University of Birmingham, UK
